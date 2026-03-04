@@ -1,3 +1,14 @@
+/* # APPLICATION NAME: FOCUS FRIEND
+# 
+# EXPLANATION OF THE STYLING (CSS):
+# 1. The 'body' uses Flexbox to keep the timer box perfectly in the center.
+# 2. We use a dark color palette (#1a1a2e) to reduce eye strain for users.
+# 3. The 'container' has a box-shadow and border-radius to make it look modern.
+# 4. The '#timerDisplay' is styled with a large font and red color so it is 
+#    the first thing the user sees.
+# 5. Buttons have hover-effects and padding to make them easy to tap on mobile.
+*/
+
 body {
     background-color: #1a1a2e;
     color: white;
